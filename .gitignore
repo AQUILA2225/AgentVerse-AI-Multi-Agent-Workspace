@@ -1,0 +1,19 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Vector Database
+vector_db/
+
+# Memory Storage
+memory/memory_store.json
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db

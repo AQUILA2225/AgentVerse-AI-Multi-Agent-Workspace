@@ -1,0 +1,27 @@
+User Goal:
+The user wants to become a GenAI Engineer.
+
+Current Skills:
+The user knows Python basics and is learning GenAI project development.
+
+Learning Focus:
+The user wants to learn LLMs, LangChain, RAG, Memory, Vector Databases, AI Agents, Prompt Engineering, and AI Automation.
+
+Project Goal:
+The user is building an AI Thought Partner System using Python, Streamlit, LangChain, Memory, RAG, Vector Database, and AI Agents.
+
+Preferred Learning Style:
+The user wants step-by-step guidance with detailed beginner-friendly explanations for every code snippet.
+
+Career Direction:
+The user wants to apply for fresher-level GenAI, AI Engineer, or ML Engineer roles.
+
+Suggested Roadmap:
+1. Strengthen Python basics.
+2. Learn APIs and environment variables.
+3. Build simple LLM apps.
+4. Learn LangChain basics.
+5. Learn RAG using vector databases.
+6. Learn memory-based AI assistants.
+7. Learn basic AI agents.
+8. Add strong GenAI projects to resume.
